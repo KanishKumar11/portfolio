@@ -41,7 +41,7 @@ const page = () => {
         <title>Kanish Kumar | About Page</title>
         <meta
           name="description"
-          content="Kanish Kumar - I'm freelance web developer"
+          content="Kanish Kumar - I &sbquo; m freelance web developer"
         />
       </Head>
       <TransitionEffect />
@@ -57,16 +57,16 @@ const page = () => {
                 About Me
               </h2>
               <p className="font-medium">
-                Hi, I'm Kanish Kumar, a front-end web developer with a passion
-                for creating beautiful, functional, and user-centered digital
-                experiences. With 2 years of experience in the field. I am
-                always looking for new and innovative ways to bring my clients'
-                visions to life.
+                Hi, I&sbquo;m Kanish Kumar, a front-end web developer with a
+                passion for creating beautiful, functional, and user-centered
+                digital experiences. With 2 years of experience in the field. I
+                am always looking for new and innovative ways to bring my
+                clients&sbquo; visions to life.
               </p>
               <p className="my-4 font-medium">
                 I believe that design is about more than just making things look
-                pretty – it's about solving problems and creating intuitive,
-                enjoyable experiences for users.
+                pretty – it&sbquo;s about solving problems and creating
+                intuitive, enjoyable experiences for users.
               </p>
               <p className="mb-16 font-medium">
                 I can handle web design, development, maintenance, optimization,
@@ -75,7 +75,7 @@ const page = () => {
                 development and learning new things. I communicate well, deliver
                 on time, and satisfy customers. If you need a freelance web
                 developer who can make your web vision a reality, please contact
-                me. I’m excited to work with you on your next web project.
+                me. I&sbquo;m excited to work with you on your next web project.
               </p>
             </div>
             <div className="col-span-3 relative h-max rounded-2xl border-2 border-solid border-dark bg-light p-8 dark:bg-dark dark:border-light xl:col-span-4 md:order-1 md:!col-span-8 ">
