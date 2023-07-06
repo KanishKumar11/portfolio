@@ -159,10 +159,10 @@ const Projects = () => {
               {" "}
               <Project
                 title="Portfolio Website Design"
-                link="https://kanishkumar11.github.io/portfolio/"
+                link="https://kanishkumar11.github.io/portfolio-website/"
                 type="Portfolio Website"
                 img={project3}
-                github="https://github.com/KanishKumar11/portfolio/"
+                github="https://github.com/KanishKumar11/portfolio-website/"
               />
             </div>
             <div className="col-span-12 md:max-w-[90vw]">
