@@ -33,6 +33,6 @@
     "src/components/AnimatedText.js",
     "src/app/about/page.jsx",
     "src/components/Navbar.jsx"
-  ],
+, "src/app/layout.js", "src/app/layout.js"  ],
   "exclude": ["node_modules"]
 }

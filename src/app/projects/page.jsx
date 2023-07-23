@@ -11,6 +11,7 @@ import project2 from "@/../public/images/projects/project-2.png";
 import project3 from "@/../public/images/projects/project-3.png";
 import project4 from "@/../public/images/projects/project-4.png";
 import project5 from "@/../public/images/projects/project-5.png";
+import project6 from "@/../public/images/projects/project-6.png";
 import { motion } from "framer-motion";
 import TransitionEffect from "@/components/TransitionEffect";
 
@@ -136,6 +137,16 @@ const Projects = () => {
             className=" xs:!text-4xl sm:text-6xl lg:text-7xl sm:mb-8  mb-16 "
           />
           <div className="grid grid-cols-12 gap-24 gap-y-32 xl:gap-x-16 lg:gap-x-8 md:gap-y-24 sm:gap-x-0">
+            <div className="col-span-12 md:max-w-[90vw]">
+              <FeaturedProject
+                title="Edtech platform landing page"
+                summary="Explore the Edtech Platform Landing Page, a modern project built with Next.js, Tailwind CSS, and Framer Motion. This dynamic and responsive website offers a seamless user experience, showcasing the latest web development technologies in action."
+                link="https://kanish-e-learn.netlify.app/"
+                type="Featured Project"
+                img={project6}
+                github="https://github.com/KanishKumar11/e-learn/"
+              />
+            </div>
             <div className="col-span-12 md:max-w-[90vw]">
               <FeaturedProject
                 title="Modern Web3 Metaverse landing page"
