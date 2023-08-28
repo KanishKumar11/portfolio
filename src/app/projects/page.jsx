@@ -190,10 +190,10 @@ const Projects = () => {
               {" "}
               <Project
                 title="Soduko Game"
-                link="https://kanishkumar11.github.io/soduko/"
+                link="https://kanishkumar11.github.io/sudoku/"
                 type="Game"
                 img={project5}
-                github="https://github.com/soduko/"
+                github="https://github.com/KanishKumar11/sudoku"
               />
             </div>
           </div>
